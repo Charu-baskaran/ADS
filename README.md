@@ -1,5 +1,5 @@
 # Named Entity Recognition
-#About NER
+# About NER
 
 Named Entity Recognition (NER) is a fundamental task in Natural Language Processing (NLP) that involves identifying and categorizing named entities within a body of text. Named entities are specific objects or entities that have a name, such as people, organizations, locations, dates, quantities, and more. NER systems analyze text to extract these entities and classify them into predefined categories or types, providing valuable information for various downstream NLP tasks such as information extraction, question answering, sentiment analysis, and more.
 At its core, NER aims to identify and classify named entities within unstructured text data, enabling machines to understand and process human language more effectively. By automatically recognizing named entities, NER systems can extract important information from large volumes of text, aiding in tasks such as information retrieval, document summarization, and content recommendation.
@@ -25,7 +25,7 @@ The applications of Named Entity Recognition are diverse and widespread across v
 - Entity Linking: NER can be used to link named entities mentioned in text to their corresponding entries in knowledge bases or databases, enabling cross-referencing and semantic enrichment of data.
 - Sentiment Analysis: NER assists in sentiment analysis by identifying named entities associated with positive or negative sentiment, such as product names in customer reviews or brand mentions in social media posts.
 
-##CODE - Description
+## CODE - Description
 
 ## Overview
 
