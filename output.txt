@@ -1,0 +1,22 @@
+July 20, 1969	DATE
+NASA	ORG
+Apollo 11	LAW
+first	ORDINAL
+Neil Armstrong	PERSON
+Buzz Aldrin	PERSON
+Michael Collins	PERSON
+millions	CARDINAL
+Eagle	ORG
+Moon	LOC
+Neil Armstrong's	PERSON
+one	CARDINAL
+one	CARDINAL
+first	ORDINAL
+Buzz Aldrin	PERSON
+American	NORP
+about 21 hours	TIME
+Moon	LOC
+Earth	LOC
+the Pacific Ocean	LOC
+July 24, 1969	DATE
+Apollo 11	LAW
