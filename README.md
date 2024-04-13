@@ -60,3 +60,14 @@ This Python script uses the spaCy library to recognize named entities in a text 
 ### Visualize Named Entities
 
 - After running the script, you can visualize the recognized named entities using spaCy's built-in visualization tool.
+
+
+### QUESTION 2
+
+Consider the Zachary’s karate club network from the movie karate kids. Here Zachary tried to analyze conflicts and fission in small groups. The dataset called karate.gml can be read using NetworkX and can be obtained from https://doi.org/10.6084/m9.figshare.7985174.v1 .[GML - Graph Modelling Language.] It contains 34 nodes representing individuals within the karate club. The edges in the network are given by interactions between two individuals outside the activities of the club such as actual lessons or meetings.
+
+i. create a graph from the karate.gml file. Display all the basic information about the network. 
+ii. Store all the metadata of the actors in the network. 
+iii. Calculate all types of centrality (degree, betweenness, closeness, eigenvector, pagerank centrality). Analyse the nodes based on the centrality values. Write a note on this. 
+iv. Find the possible k-components of the network and the clustering coefficient. 
+v. Find out the communities using Girvan-Newman algorithm and Louvain method.
